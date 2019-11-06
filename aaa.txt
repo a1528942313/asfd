@@ -1,2 +1,7 @@
 fgjdtghdjfgdhfgdgbhdf
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaa
+=======
+fghsdfvjhdsfghjdfhjdkujv cjkvsdhjbcjsdbjcdshkjcskjc;kl 
+>>>>>>> 3552e6dde4453c83c9a989a697ba86e4f4eed74a
+ashjdfvbdshj
